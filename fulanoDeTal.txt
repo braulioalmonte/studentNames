@@ -1,0 +1,4 @@
+Name: Fulano
+Favorite Food: Default
+Favorite Game: Default
+Favorte Movie: Default
