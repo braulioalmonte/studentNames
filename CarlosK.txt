@@ -1,0 +1,7 @@
+name = "Carlos K"
+age = 17
+favoriteActivity = "Sleep"
+favoriteVideogames = ["Elden Ring","Hollow Knight","Assassins Creed","The Finals","Armor Core VI"]
+favoriteFood = "Pizza"
+favoriteMovie = None
+dogs = 2
