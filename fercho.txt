@@ -1,2 +1,4 @@
 Name: Fernando Soriano
-Favorite food: Burger
+Favorite Food: Burger
+Favorite Game: Fifa
+Favorite Movie: The Godfather II
